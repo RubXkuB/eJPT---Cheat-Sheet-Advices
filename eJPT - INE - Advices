@@ -79,7 +79,7 @@ All techniques of exploitations will come to you in an obvious way if you identi
 
 - I have encounter a problem with a software, giving to me a part of result but failed to extract the most important part - solution : Update it!
 
-- If you use Kali of else on a VM, have a snapshot of your virtual machine before beginning.
+- If you use Kali of else on a VM, have a snapshot of your virtual machine before beginning so you can restore your VM in case of problem.
 
 - Take some notes and screenshots of everything you at every step.
 
@@ -87,7 +87,7 @@ All techniques of exploitations will come to you in an obvious way if you identi
 If you are lost , as I told you at the beginning, have bigger picture of the situation, read the letter of the engagement again, read the questions again.
 You will determine what is the scope / objective and what is expected from you :)
 
-- Act as professional, track all what you do, SAVE all your notes at each step, so you can retrieve them in case of power cut or any bug.
+- Act as professional, keep a track of all what you do, SAVE all your notes at each step, so you can retrieve them in case of power cut or any bug.
 
 
 

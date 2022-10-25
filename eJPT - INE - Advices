@@ -1,8 +1,10 @@
-The INE eJPT (V1) certification is an entry-level certification in Cybersecurity for "Red Teamers" (offensive) / pentesters.
+eJPT / eLearnSecurity 
+
+The  eLearnSecurity eJPT (V1) certification is an entry-level certification in Cybersecurity for "Red Teamers" (offensive) / pentesters.
 It is  a 100% pratical hands-on certification for pentesters. 
 Their learning path is awesome!
 
-THE LEARNNIG PATH PTS (Penetration Testing Student) - recommended to do before taking the exam - is totally FREE!
+THE INE LEARNNIG PATH PTS (Penetration Testing Student) - recommended to do before taking the exam - is totally FREE!
 Lukasz Mikula is an awesome instructor - all explanations are very clear , labs are really realistics.
 
 
@@ -14,7 +16,7 @@ Who am I?
 I am Network & System Engineer, for almost 20 years and I always been "cyber-security enthusiast", I am doing myself CTFs, and TOP 1% on TryHackMe 
 [https://tryhackme.com/p/rubixrub]
 
-However, I can say that cybersecurity is accessible for ALL, from scratch - you just have to take the right way, where to learn solid basics.
+However, I can say that cybersecurity is accessible for ALL, from scratch - you just have to take the right way and to know where to learn solid basics.
 I am confident that for a real beginner (from zero) , that INE learning path is one of the best first step. 
 You don't need any prerequisites, only one thing : motivation (based on enthusiasm)
 
@@ -46,16 +48,20 @@ In few words : I have taken all my time - without any stress.
 
 So here are my advices before taking & during the exam:
 1- Take the PTS learning path (free!) and DO understand all basics and take ALL THE LABS.
+# The Preliminary Skills & Programming path is an "extra skill" , you can skip it (i mean for the exam), but you will lose a lot!
 2- Read the letter of engagement 
 3- Read the letter of engagement (I mean read it x2!)
 4- Do recon, mapping, discovery, and when you are stuck, recon and gather informations further angain and again!
-5- Read ALL the question before beginning, sometimes questions can give you some clues.
+5- Read ALL the questions before beginning, sometimes questions can give you some clues.
 6- Don't take it as as CTF because it is NOT a challenge, but as a REAL WORLD SCENARIO!
 7- If you are stuck, have a break, take a step back, and take the problem as a whole and a have bigger picture of the situation.
 8- Have fun with it (yes really!)
+9- Don't stress, if you fail, you can still have a second attempt!
 
+################################################
 
 Technical advices:
+
 As you will notice, I will not leak anything from the exam, but I can still give you some technical advices in general regarding this exam.
 
 -Pivoting and port forwarding :

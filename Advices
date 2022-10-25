@@ -47,8 +47,8 @@ In few words : I have taken all my time - without any stress.
 So here are my advices before taking & during the exam:
 1- Take the PTS learning path (free!) and DO understand all basics and take ALL THE LABS.
 2- Read the letter of engagement 
-3- Read the letter of engagement (I mean read it!)
-4- Read the letter of engagement (I repeat it again ...)
+3- Read the letter of engagement (I mean read it x2!)
+4- Do recon, mapping, discovery, and when you are stuck, recon and gather informations further angain and again!
 5- Read ALL the question before beginning, sometimes questions can give you some clues.
 6- Don't take it as as CTF because it is NOT a challenge, but as a REAL WORLD SCENARIO!
 7- If you are stuck, have a break, take a step back, and take the problem as a whole and a have bigger picture of the situation.
@@ -62,9 +62,27 @@ As you will notice, I will not leak anything from the exam, but I can still give
 It is a must-to-learn! You have to take care of it.
 
 -Traffic sniffing : 
-Be ensure to know how to read a wireshark session!
+Be sure to know how to read a wireshark session!
 
--
+-Recon :
+You have to master nmap.
+Labs are your friends!
+Discover the network(s), it (/their) host(s) and identify potential surfaces of attack.
+Use nmap script to gather deeper info about open ports, services running on hosts , versions, and potential vulnerabilities (cf: cheat sheet)
+All techniques of exploitations will come to you in an obvious way if you identify correctly the vulnerabilities!
+
+- I have encounter a problem with a software, giving to me a part of result but failed to extract the most important part - solution : Update it!
+
+- If you use Kali of else on a VM, have a snapshot of your virtual machine before beginning.
+
+- Take some notes and screenshots of everything you at every step.
+
+- Don't lose yourself. 
+If you are lost , as I told you at the beginning, have bigger picture of the situation, read the letter of the engagement again, read the questions again.
+You will determine what is the scope / objective and what is expected from you :)
+
+- Act as professional, track all what you do, SAVE all your notes at each step, so you can retrieve them in case of power cut or any bug.
+
 
 
 

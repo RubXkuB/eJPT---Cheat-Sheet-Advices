@@ -82,7 +82,7 @@ Discover the network(s), it (/their) host(s) and identify potential surfaces of 
 Use nmap script to gather deeper info about open ports, services running on hosts , versions, and potential vulnerabilities (cf: cheat sheet)
 All techniques of exploitations will come to you in an obvious way if you identify correctly the vulnerabilities!
 
-- I have encounter a problem with a software, giving to me a part of result but failed to extract the most important part - solution : Update it!
+- I have encounter a problem with a software, giving to me a part of result but failed to extract the most important part - solution was to update it- so check if all your softs are updated!
 
 - If you use Kali of else on a VM, have a snapshot of your virtual machine before beginning so you can restore your VM in case of problem.
 
